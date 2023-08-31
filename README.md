@@ -13,7 +13,11 @@ The data might have been aggregated to generate the insights presented in the da
 
 # Summary of Findings
 • The dataset primarily consists of married individuals, with a fair balance between male and female participants.
+
 • Income levels are clustered around the $20,000 to $60,000 range.
+
 • Most individuals have a 'Partial College' education and work in 'Professional' or 'Skilled Manual' jobs.
+
 • A significant number of individuals don't own cars and have a short commute distance of 0-1 miles.
-Bike purchase patterns indicate that single, non-homeowning, middle-aged individuals are more likely to buy bikes.
+
+• Bike purchase patterns indicate that single, non-homeowning, middle-aged individuals are more likely to buy bikes.
