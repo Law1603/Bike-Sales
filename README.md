@@ -1,4 +1,6 @@
 # Bike-Sales Dashboard 
+![image](https://github.com/Law1603/Bike-Sales/assets/78369461/cd135bb3-972b-47b6-b4db-259f040ece43)
+
 
 # Tools Used
 Excel
